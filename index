@@ -87,7 +87,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Chroma Bait",
             "Corrupt Bait",
             "Aether Bait",
-            "Singularity Bait",
+            "Floral Bait",
         },
     },
     ["Rod List"] = {
@@ -105,7 +105,7 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Midnight Rod", "Astral Rod"},
-            ["Ocean"] = {"Element Rod", "Ghostfinn Rod", "Angler Rod", "Ares Rod"},
+            ["Ocean"] = {"Element Rod", "Ghostfinn Rod", "Angler Rod", "Ares Rod", "Bamboo Rod"},
         },
     },
 
