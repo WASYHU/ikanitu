@@ -50,10 +50,19 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Use"] = true,
         ["Minimum Rod"] = "Astral Rod",
     },
+    ["Totems"] = {
+        ["Auto Use"] = true,
+        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Buy List"] = {
+            "Luck Totem",
+        },
+    },
     ["Event"] = {
         ["Start Farm"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
+            ["Christmas Cave"] = true,
+            ["Hacker Event"] = true,
             "Megalodon Hunt",
             "Ghost Shark Hunt",
             "Shark Hunt",
