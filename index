@@ -3,7 +3,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Perfect"] = true,
     },
     ["Auto Trade"] = {
-        ["Enabled"] = true,
+        ["Enabled"] = false,
         ["Whitelist Username"] = {"JulioVanca"},
         ["Category Fish"] = { -- Only Select one, fill in the fish category or fish name
             "Secret",
@@ -23,6 +23,7 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
+        ["Unlock Ancient Ruin"] = true,
         ["Allowed Sacrifice"] = {
             "Blob Shark",
             "Ghost Shark",
