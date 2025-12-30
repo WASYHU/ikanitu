@@ -67,7 +67,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Event"] = {
         ["Start Farm"] = true,
-        ["Minimum Rod"] = "Element Rod",
+        ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
             ["Christmas Cave"] = true,
             ["Hacker Event"] = true,
@@ -123,7 +123,7 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Midnight Rod", "Astral Rod"},
-            ["Ocean"] = {"Bamboo Rod", "Angler Rod", "Ares Rod","Element Rod","Ghostfinn Rod",},
+            ["Ocean"] = {"Bamboo Rod", "Angler Rod", "Ares Rod", "Element Rod","Ghostfinn Rod",},
         },
     },
 
