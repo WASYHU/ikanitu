@@ -15,6 +15,9 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Fish Name"] = {
         },
+        ["Item Name"] = {
+            "Evolved Enchant Stone",
+        },
     },
     ["Farm Coin Only"] = {
         ["Enabled"] = false, -- Farm coins only [ cant buy rod, bait, enchant, weather ]
