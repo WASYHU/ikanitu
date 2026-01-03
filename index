@@ -126,7 +126,8 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Midnight Rod", "Astral Rod"},
-            ["Ocean"] = {"Bamboo Rod", "Angler Rod", "Ares Rod", "Element Rod","Ghostfinn Rod",},
+            ["Ocean"] = {"Bamboo Rod", "Angler Rod", "Ares Rod"},
+            ["Ancient Ruin"] = {"Element Rod","Ghostfinn Rod"},
         },
     },
 
