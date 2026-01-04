@@ -15,7 +15,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Secret",
         },
         ["Fish Name"] = {
-            "Flatheaded Whale Shark",
+            --"Flatheaded Whale Shark",
             "Sacred Guardian Squid",
             "Ruby",
         },
