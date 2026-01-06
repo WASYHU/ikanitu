@@ -88,11 +88,11 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Roll Enchant"] = false, -- true = Roll until get TOP 1 enchant only (first in list)
         ["Evolved Roll Enchant"] = true, -- true = Roll Evolved Stone until get ANY evolved-only enchant from list, then fallback to regular stone
         ["Enchant List"] = {
-            "SECRET Hunter",
-            "Shark Hunter",
-            "Mutation Hunter III",
+            --"SECRET Hunter",
+            --"Shark Hunter",
+            --"Mutation Hunter III",
             "Leprechaun II",
-            "Mutation Hunter II",
+            --"Mutation Hunter II",
             "Reeler I",
             "Prismatic I",
         },
@@ -137,8 +137,8 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Esoteric Depths"] = {"Midnight Rod", "Astral Rod"},
             ["Ocean"] = {"Bamboo Rod", "Angler Rod", "Ares Rod"},
             --["Ancient Ruin"] = {"Element Rod","Ghostfinn Rod"},
-            ["Kohana"] = {"Element Rod","Ghostfinn Rod"},
-            --["Tropical Grove"] = {"Element Rod","Ghostfinn Rod"},
+            --["Kohana"] = {"Element Rod","Ghostfinn Rod"},
+            ["Tropical Grove"] = {"Element Rod","Ghostfinn Rod"},
         },
     },
 
