@@ -19,7 +19,7 @@ _G.FishItConfig = _G.FishItConfig or {
             {Name = "Ruby", Variant = "Gemstone"},
         },
         ["Item Name"] = {
-            --"Evolved Enchant Stone",
+            "Evolved Enchant Stone",
         },
     },
     ["Farm Coin Only"] = {
@@ -73,7 +73,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = true,
+        ["Start Farm"] = false,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
             ["Christmas Cave"] = false,
@@ -135,8 +135,8 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Midnight Rod", "Astral Rod"},
-            ["Ocean"] = {"Bamboo Rod", "Angler Rod", "Ares Rod", "Element Rod","Ghostfinn Rod"},
-            --["Ancient Ruin"] = {"Element Rod","Ghostfinn Rod"},
+            ["Ocean"] = {"Bamboo Rod", "Angler Rod", "Ares Rod"},
+            ["Ancient Ruin"] = {"Element Rod","Ghostfinn Rod"},
             --["Kohana"] = {"Element Rod","Ghostfinn Rod"},
             --["Tropical Grove"] = {"Element Rod","Ghostfinn Rod"},
         },
