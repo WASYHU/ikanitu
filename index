@@ -11,7 +11,7 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Auto Trade"] = {
         ["Enabled"] = true,
         ["Whitelist Username"] = {"JulioVanca"},
-        ["Category Fish"] = { -- Only Select one, fill in the fish category or fish name
+        ["Category Fish"] = {
             "Secret",
         },
         ["Fish Name"] = {
@@ -23,7 +23,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Farm Coin Only"] = {
-        ["Enabled"] = false, -- Farm coins only [ cant buy rod, bait, enchant, weather ]
+        ["Enabled"] = false,
         ["Target"] = 190000,
     },
     ["Selling"] = {
@@ -73,7 +73,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = false,
+        ["Start Farm"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
             ["Christmas Cave"] = false,
@@ -85,8 +85,8 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Enchant"] = {
         ["Auto Enchant"] = true,
-        ["Roll Enchant"] = false, -- true = Roll until get TOP 1 enchant only (first in list)
-        ["Evolved Roll Enchant"] = true, -- true = Roll Evolved Stone until get ANY evolved-only enchant from list, then fallback to regular stone
+        ["Roll Enchant"] = false,
+        ["Evolved Roll Enchant"] = true,
         ["Enchant List"] = {
             --"SECRET Hunter",
             --"Shark Hunter",
@@ -135,9 +135,9 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Midnight Rod", "Astral Rod"},
-            ["Ocean"] = {"Bamboo Rod", "Angler Rod", "Ares Rod"},
+            ["Ocean"] = {"Bamboo Rod", "Angler Rod", "Ares Rod", "Element Rod","Ghostfinn Rod"},
             --["Ancient Ruin"] = {"Element Rod","Ghostfinn Rod"},
-            ["Kohana"] = {"Element Rod","Ghostfinn Rod"},
+            --["Kohana"] = {"Element Rod","Ghostfinn Rod"},
             --["Tropical Grove"] = {"Element Rod","Ghostfinn Rod"},
         },
     },
