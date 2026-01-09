@@ -1,6 +1,7 @@
 _G.FishItConfig = _G.FishItConfig or {
     ["Fishing"] = {
         ["Auto Perfect"] = true,
+        ["Random Result"] = false,
         ["Auto Favorite"] = true,
         ["Fish Name"] = {
             "Sacred Guardian Squid",
@@ -129,7 +130,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Astral Rod",
             "Ares Rod",
             "Angler Rod",
-            "Bamboo Rod",
+            --"Bamboo Rod",
         },
         ["Location Rods"] = { -- Farm location and minimum rod to start on that location, also only 1 rod and only 1 location
             ["Fisherman Island"] = {"Starter Rod"},
