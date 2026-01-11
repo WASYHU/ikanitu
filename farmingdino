@@ -86,9 +86,10 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Enchant"] = {
         ["Auto Enchant"] = true,
-        ["Roll Enchant"] = false,
+        ["Roll Enchant"] = true,
         ["Evolved Roll Enchant"] = true,
         ["Enchant List"] = {
+            "Cursed I",
             --"SECRET Hunter",
             --"Shark Hunter",
             --"Mutation Hunter III",
