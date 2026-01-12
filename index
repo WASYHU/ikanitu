@@ -2,6 +2,7 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Fishing"] = {
         ["Auto Perfect"] = true,
         ["Random Result"] = false,
+        ["Auto Unfavorite"] = false,
         ["Auto Favorite"] = true,
         ["Fish Name"] = {
             "Sacred Guardian Squid",
@@ -69,8 +70,8 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Use"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Buy List"] = {
-            "Luck Totem",
-            "Mutation Totem",
+            ["Luck Totem"] = 5,
+            ["Mutation Totem"] = 5,
         },
     },
     ["Event"] = {
@@ -111,6 +112,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Bait List"] = {
         ["Auto Buying"] = true,
+        ["Endgame"] = "Singularity Bait",
         ["Buy List"] = {
             "Luck Bait",
             "Midnight Bait",
@@ -123,6 +125,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Rod List"] = {
         ["Auto Buying"] = true,
+        ["Endgame"] = "Element Rod",
         ["Buy List"] = {
             "Luck Rod",
             "Grass Rod",
