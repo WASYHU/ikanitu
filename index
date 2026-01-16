@@ -72,7 +72,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Use"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Buy List"] = {
-            ["Luck Totem"] = 5,
+            --["Luck Totem"] = 5,
             ["Mutation Totem"] = 5,
         },
     },
@@ -89,9 +89,10 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Enchant"] = {
         ["Auto Enchant"] = true,
-        ["Roll Enchant"] = false,
+        ["Roll Enchant"] = true,
         ["Evolved Roll Enchant"] = true,
         ["Enchant List"] = {
+            "Cursed I",
             --"SECRET Hunter",
             --"Shark Hunter",
             --"Mutation Hunter III",
@@ -100,17 +101,17 @@ _G.FishItConfig = _G.FishItConfig or {
             "Reeler I",
             "Prismatic I",
         },
-        ["Second Enchant"] = false,
+        ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
-            "Frostborn Shark",
-            "Cryoshade Glider",
+            "Gladiator Shark",
+            "Queen Crab",
+            "King Crab",
         },
         ["Second Enchant List"] = {
-            "Reeler I",
-            "Prismatic I",
+            "Cursed I",
             "Mutation Hunter II",
         },
-        ["Minimum Rod"] = "Astral Rod",
+        ["Minimum Rod"] = "Ghostfinn Rod",
     },
     ["Bait List"] = {
         ["Auto Buying"] = true,
@@ -142,10 +143,10 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Midnight Rod", "Astral Rod"},
             ["Ocean"] = {"Bamboo Rod", "Angler Rod", "Ares Rod"},
-            ["Ancient Ruin"] = {"Element Rod","Ghostfinn Rod"},
+            --["Ancient Ruin"] = {"Element Rod","Ghostfinn Rod"},
             --["Kohana"] = {"Element Rod","Ghostfinn Rod"},
             --["Tropical Grove"] = {"Element Rod","Ghostfinn Rod"},
-            --["Treasure Room"] = {"Element Rod","Ghostfinn Rod"},
+            ["Treasure Room"] = {"Element Rod","Ghostfinn Rod"},
         },
     },
 
