@@ -146,7 +146,7 @@ _G.FishItConfig = _G.FishItConfig or {
             --["Ancient Ruin"] = {"Element Rod","Ghostfinn Rod"},
             --["Kohana"] = {"Element Rod","Ghostfinn Rod"},
             --["Tropical Grove"] = {"Element Rod","Ghostfinn Rod"},
-            ["Treasure Room"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod", Luck Rod},
+            ["Treasure Room"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod", "Luck Rod"},
         },
     },
 
