@@ -141,12 +141,12 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Location Rods"] = { -- Farm location and minimum rod to start on that location, also only 1 rod and only 1 location
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod"},
-            ["Esoteric Depths"] = {"Midnight Rod", "Astral Rod"},
-            ["Ocean"] = {"Bamboo Rod", "Angler Rod", "Ares Rod"},
+            --["Esoteric Depths"] = {"Midnight Rod", "Astral Rod"},
+            ["Ocean"] = {"Bamboo Rod", "Angler Rod"},
             --["Ancient Ruin"] = {"Element Rod","Ghostfinn Rod"},
             --["Kohana"] = {"Element Rod","Ghostfinn Rod"},
             --["Tropical Grove"] = {"Element Rod","Ghostfinn Rod"},
-            ["Treasure Room"] = {"Element Rod","Ghostfinn Rod"},
+            ["Treasure Room"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod", "Astral Rod", "Midnight Rod"},
         },
     },
 
