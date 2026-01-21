@@ -41,7 +41,7 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
-        ["Unlock Ancient Ruin"] = false,
+        ["Unlock Ancient Ruin"] = true,
         ["Allowed Sacrifice"] = {
             "Blob Shark",
             "Ghost Shark",
@@ -111,6 +111,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "King Crab",
         },
         ["Second Enchant List"] = {
+            "Perfection",
             "Cursed I",
             "Mutation Hunter II",
         },
@@ -146,11 +147,11 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Midnight Rod", "Astral Rod"},
             ["Ocean"] = {"Bamboo Rod", "Angler Rod"},
-            --["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
+            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
             --["Kohana"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
             --["Tropical Grove"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
             --["Treasure Room"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
-            ["Crystal Depths"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
+            --["Crystal Depths"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
         },
     },
 
