@@ -147,11 +147,11 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Midnight Rod", "Astral Rod"},
             ["Ocean"] = {"Bamboo Rod", "Angler Rod"},
-            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
+            --["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
             --["Kohana"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
             --["Tropical Grove"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
             --["Treasure Room"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
-            --["Crystal Depths"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
+            ["Crystal Depths"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
         },
     },
 
