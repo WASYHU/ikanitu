@@ -10,6 +10,8 @@ _G.FishItConfig = _G.FishItConfig or {
             {Variant = "Fairy Dust"},
             {Variant = "Holographic"},
             {Variant = "Gemstone"},
+            {Variant = "Midnight"},
+            {Variant = "Galaxy"},
             {Variant = "Leviathan Rage"},
         },
         ["Auto Accept Trade"] = true,
@@ -27,6 +29,8 @@ _G.FishItConfig = _G.FishItConfig or {
             {Variant = "Fairy Dust"},
             {Variant = "Holographic"},
             {Variant = "Gemstone"},
+            {Variant = "Midnight"},
+            {Variant = "Galaxy"},
             {Variant = "Leviathan Rage"},
         },
         ["Item Name"] = {
