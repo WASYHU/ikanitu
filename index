@@ -7,6 +7,8 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Fish Name"] = {
             "Sacred Guardian Squid",
             {Name = "Ruby", Variant = "Gemstone"},
+            {Tier = "Legendary", Variant = "Cupid"},
+            {Tier = "Mythic", Variant = "Cupid"},
             --{Tier = "Legendary", Variant = "Fairy Dust"},
             --{Tier = "Legendary", Variant = "Holographic"},
             --{Tier = "Legendary", Variant = "Gemstone"},
@@ -28,6 +30,8 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Whitelist Username"] = {"alfirstradena"},
         ["Category Fish"] = {
             "Secret",
+            {Tier = "Legendary", Variant = "Cupid"},
+            {Tier = "Mythic", Variant = "Cupid"},
             {Tier = "Legendary", Variant = "Fairy Dust"},
             {Tier = "Legendary", Variant = "Holographic"},
             {Tier = "Legendary", Variant = "Gemstone"},
@@ -95,7 +99,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Buy List"] = {
             --["Luck Totem"] = 5,
-            ["Mutation Totem"] = 5,
+            ["Mutation Totem"] = 24,
         },
     },
     ["Event"] = {
@@ -169,9 +173,10 @@ _G.FishItConfig = _G.FishItConfig or {
             --["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
             --["Kohana"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
             --["Tropical Grove"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
-            ["Treasure Room"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
+            --["Treasure Room"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
             --["Crystal Depths"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
             --["Pirate Cove"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
+            ["Heartfelt Island"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
         },
     },
 
